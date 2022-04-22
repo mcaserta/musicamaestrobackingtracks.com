@@ -1,9 +1,10 @@
-mainSections = ["posts", "docs"] # Default to ["posts"].
+#mainSections = ["posts", "docs"] # Default to ["posts"].
+mainSections = ["posts"] # Default to ["posts"].
 
 # titleSeparator = "|" # Title separator. Default to "-".
 
-description = "An extreme fast, responsive and feature-rich blog theme for Hugo"
-keywords = "Hugo, Bootstrap, Blog Theme"
+description = "Free backing tracks for everyone"
+keywords = "music, musica, backing tracks"
 # images = ["site-feature-image.jpg"]
 
 # metaRobots = "noindex, nofollow" # Default value for Meta Tag "robots"
@@ -11,13 +12,13 @@ keywords = "Hugo, Bootstrap, Blog Theme"
 
 # logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
 # logo = false # Disable Logo
-brand = "BOOTSTRAP"
+brand = "Musica Maestro Backing Tracks"
 
 palette = "blue" # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
 # palettes = [] # Disable palette switcher.
 
-# color = "dark" # light, dark or dynamic. Default to dynamic.
+color = "dark" # light, dark or dynamic. Default to dynamic.
 
 # fullWidth = true # Full width.
 # fixedHeader = false # Turn on/off fixed header.
@@ -34,9 +35,9 @@ googleAdsense = ""
 # breadcrumbDivider = ">" # Breadcrumb divider
 # diagram = true
 # socialShare = false # disable social network sharing
-# searchBar = false # disable search-bar
+searchBar = false # disable search-bar
 
-# poweredBy = false # Whether to show powered by.
+poweredBy = false # Whether to show powered by.
 
 # readingTime = false # Whether to display the reading time.
 # postDate = false # Whether to display the post date in the post meta section.
@@ -152,7 +153,7 @@ viewer = true # Image Viewer
 [pwa]
   [pwa.manifest]
     # name = "" # Default to site title.
-    short_name = "HBS"
+    short_name = "MMBT"
     # display = "fullscreen" # Default to standalone.
     # description = "" # Default to site description.
     # theme_color = ""
@@ -167,7 +168,7 @@ viewer = true # Image Viewer
     #   src = "/images/icons/icon-144x144.png"
 
 [contact]
-  endpoint = "https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd" # Backend endpoint, remove this line if you're using Netlify.
+  # endpoint = "https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd" # Backend endpoint, remove this line if you're using Netlify.
   # file = true # Enable file upload
   # fileField = "image" # The name of file field.
 
