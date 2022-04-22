@@ -1,5 +1,5 @@
 name = "Musica Maestro Backing Tracks"
-# avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
+#avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
 bio = "Free backing tracks for everyone."
 # company = 'Company'
 # company = '<a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>'

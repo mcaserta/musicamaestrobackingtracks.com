@@ -10,11 +10,11 @@ keywords = "music, musica, backing tracks"
 # metaRobots = "noindex, nofollow" # Default value for Meta Tag "robots"
 # metaRobots = "" # disable Meta Tag "robots"
 
-# logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
+#logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
 # logo = false # Disable Logo
 brand = "Musica Maestro Backing Tracks"
 
-palette = "blue" # Default palette. Optional. You'll need to clear the browser cache after modifying this.
+palette = "black" # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
 # palettes = [] # Disable palette switcher.
 
@@ -114,7 +114,7 @@ viewer = true # Image Viewer
   # sa = true # Adaptations must be shared under the same terms.
 
 [utterances]
-  repo = "razonyang/hugo-theme-bootstrap-skeleton" # Replace with your repository.
+  repo = "mcaserta/musicamaestrobackingtracks.com" # Replace with your repository.
   #issueTerm = "pathname" # pathname, url, title, og:title
   #label = "comment"
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
