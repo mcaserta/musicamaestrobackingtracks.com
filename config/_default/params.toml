@@ -47,12 +47,12 @@ poweredBy = false # Whether to show powered by.
 # relatedPostCount = 10 # The number of related posts. Turn off by setting it to false.
 # categoryCount = 10 # The number of categories shown in sidebar. Turn off by setting it to false.
 # tagCount = 10 # The number of tags shown in sidebar. Turn off by setting it to false.
-# seriesCount = 20 # The number of series shown in sidebar. Turn off by setting it to false.
+seriesCount = 20 # The number of series shown in sidebar. Turn off by setting it to false.
 # taxonomyPaginate = 5 # Default to 10.
 taxonomyPostCount = 20 # The number of taxonomy's posts. Turn off by setting it to false.
 countTaxonomyPosts = true # Count posts of taxonomy.
 
-# sidebarTaxonomies = ["categories", "tags", "series"] # The order of taxonomies on the sidebar.
+sidebarTaxonomies = ["categories", "tags", "archives"] # The order of taxonomies on the sidebar.
 
 # pinnedPost = false # Turn on/off pinned posts.
 pinnedPostCount = 3 # The number of pinned posts.
@@ -108,10 +108,10 @@ viewer = true # Image Viewer
   shenma = ""
 
 [creativeCommons]
-  # by = true # Credit must be given to you, the creator.
-  # nc = true # Only noncommercial use of your work is permitted.
-  # nd = true # No derivatives or adaptations of your work are permitted.
-  # sa = true # Adaptations must be shared under the same terms.
+  by = true # Credit must be given to you, the creator.
+  nc = true # Only noncommercial use of your work is permitted.
+  nd = false # No derivatives or adaptations of your work are permitted.
+  sa = false # Adaptations must be shared under the same terms.
 
 [utterances]
   repo = "mcaserta/musicamaestrobackingtracks.com" # Replace with your repository.
@@ -135,8 +135,8 @@ viewer = true # Image Viewer
     # useExtendedSearch = true
 
 [reward]
-  alipay = "images/reward/alipay.png"
-  wechat = "images/reward/wechat.png"
+  #alipay = "images/reward/alipay.png"
+  #wechat = "images/reward/wechat.png"
   #paypal = "images/reward/paypal.png"
   #patreon = "images/reward/patreon.png"
   #liberapay = "images/reward/liberapay.png"
