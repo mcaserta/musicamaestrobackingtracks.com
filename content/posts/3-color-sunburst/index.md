@@ -1,12 +1,12 @@
 ---
-title: "Pop Rock Backing Track In B Minor: 3 Color Sunburst"
+title: "Pop Rock Backing Track In B Minor, 112 bpm: 3 Color Sunburst"
 date: 2022-04-10T16:35:29+08:00
 draft: false
 categories: ['Backing Track']
 tags: ['Pop Rock']
 ---
 
-A Pop Rock backing track in B minor for you to play over. 
+A Pop Rock backing track in B minor, 112 bpm for you to play over. 
 
 <!--more-->
 
@@ -32,16 +32,16 @@ A Pop Rock backing track in B minor for you to play over.
 
 * All Instruments:
   [Instagram](https://www.instagram.com/p/CcLZ_WMl4Fy/),
-  [Spotify](https://open.spotify.com/track/5WLYGZTPqQLocAbrIDbTmF?si=9b44973e3d694fb2)
+  [Spotify](https://open.spotify.com/track/5WLYGZTPqQLocAbrIDbTmF)
 * Minus Bass:
   [Instagram](https://www.instagram.com/p/CcLaYiylCG1/),
-  [Spotify](https://open.spotify.com/track/1onnGe9HzI98wodU5bBlUD?si=87f55807f7b640dc)
+  [Spotify](https://open.spotify.com/track/1onnGe9HzI98wodU5bBlUD)
 * Minus Drums:
   [Instagram](https://www.instagram.com/p/CcLbLF5lUOJ/), 
-  [Spotify](https://open.spotify.com/track/3DIJU3m1bRHEzK0hDnNG9I?si=6c17f38a70bb4a11) 
+  [Spotify](https://open.spotify.com/track/3DIJU3m1bRHEzK0hDnNG9I) 
 * Minus Keyboards And Guitars:
   [Instagram](https://www.instagram.com/p/CcLbg2XFaOp/),
-  [Spotify](https://open.spotify.com/track/6EHuDRucFKpOWjrw492B07?si=74049ce72394471f)
+  [Spotify](https://open.spotify.com/track/6EHuDRucFKpOWjrw492B07)
 
 You'll also find our backing tracks on all other major music streaming services.
 
