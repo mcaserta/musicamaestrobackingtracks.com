@@ -1,28 +1,39 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo"]
-author = "Hugo Authors"
-reward = false
-postDate = false
-readingTime = false
-+++
+---
+title: "About"
+description: "Free backing tracks for everyone"
+date: "2022-04-10"
+aliases: ["about-us"]
+author: "The Musica Maestro Backing Tracks Team"
+reward: false
+postDate: false
+readingTime: false
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Dear music enthusiast, thanks for choosing our backing tracks. We hope you get
+hours of musical enjoyment out of them.
 
-Hugo makes use of a variety of open source projects including:
+We provide:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* a selection of different musical genres
+* different versions for each track:
+  * all instruments
+  * minus bass
+  * minus drums
+  * minus keyboards and guitars
+* stems for each instrumental track so you can use them in your DAW any way you
+  like
+* a lead sheet in PDF and MuseScore format
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+The backing tracks are also distributed via the most used digital music
+distribution channels, such as
+[Spotify](https://open.spotify.com/artist/5RctudH8ReKRdeH2FVWkg3?si=XQ-CSf0KTCae7NoInuWLKw),
+[Apple
+Music](https://music.apple.com/it/artist/musica-maestro-backing-tracks/1618676191),
+[Amazon
+Store](https://www.amazon.com/music/player/artists/B09XLVDZ7J/musica-maestro-backing-tracks),
+[Deezer](https://www.deezer.com/it/artist/166381977), and more.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Now go have fun, make music: this world needs as much of it as humanly possible.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+The Musica Maestro Backing Tracks Team
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).

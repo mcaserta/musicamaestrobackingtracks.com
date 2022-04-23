@@ -43,9 +43,11 @@ pygmentsUseClasses = true
 [outputs]
   home = ["HTML", "RSS", "JSON", "MANIFEST"]
 
+disableKinds = ['series']
+
 [taxonomies]
   category = "categories"
-  series = "series"
+  #series = "series"
   tag = "tags"
 
 [build]

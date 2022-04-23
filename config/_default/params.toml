@@ -1,6 +1,7 @@
 #mainSections = ["posts", "docs"] # Default to ["posts"].
-mainSections = ["posts"] # Default to ["posts"].
+#mainSections = ["posts"] # Default to ["posts"].
 
+comment = false
 # titleSeparator = "|" # Title separator. Default to "-".
 
 description = "Free backing tracks for everyone"
@@ -16,7 +17,7 @@ brand = "Musica Maestro Backing Tracks"
 
 palette = "black" # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
-# palettes = [] # Disable palette switcher.
+palettes = [] # Disable palette switcher.
 
 color = "dark" # light, dark or dynamic. Default to dynamic.
 
@@ -47,12 +48,12 @@ poweredBy = false # Whether to show powered by.
 # relatedPostCount = 10 # The number of related posts. Turn off by setting it to false.
 # categoryCount = 10 # The number of categories shown in sidebar. Turn off by setting it to false.
 # tagCount = 10 # The number of tags shown in sidebar. Turn off by setting it to false.
-seriesCount = 20 # The number of series shown in sidebar. Turn off by setting it to false.
+seriesCount = false # The number of series shown in sidebar. Turn off by setting it to false.
 # taxonomyPaginate = 5 # Default to 10.
 taxonomyPostCount = 20 # The number of taxonomy's posts. Turn off by setting it to false.
 countTaxonomyPosts = true # Count posts of taxonomy.
 
-sidebarTaxonomies = ["categories", "tags", "archives"] # The order of taxonomies on the sidebar.
+sidebarTaxonomies = ["categories", "tags"] # The order of taxonomies on the sidebar.
 
 # pinnedPost = false # Turn on/off pinned posts.
 pinnedPostCount = 3 # The number of pinned posts.
@@ -82,10 +83,10 @@ viewer = true # Image Viewer
 [post]
   # excerpt = "description"
   # excerptMaxLength = 120
-  # copyright = false # Whether to display copyright section on each post.
+  copyright = false # Whether to display copyright section on each post.
   # plainifyExcerpt = false # Format excerpt in HTML if false.
   featuredImage = true # Show the featured image above the content.
-  numberifyHeadings = true # Count headings automatically.
+  numberifyHeadings = false # Count headings automatically.
   # numberifyHeadingsEndLevel = 4 # The depth of headings to count. Default to 6.
   numberifyHeadingsSeparator = "." # The separator between of number and headings.
   # tocStyleType = "decimal" # The TOC's CSS list-style-type property.
@@ -134,7 +135,7 @@ viewer = true # Image Viewer
     # distance = 100
     # useExtendedSearch = true
 
-[reward]
+#[reward]
   #alipay = "images/reward/alipay.png"
   #wechat = "images/reward/wechat.png"
   #paypal = "images/reward/paypal.png"
@@ -167,13 +168,13 @@ viewer = true # Image Viewer
     #   sizes = "144x144"
     #   src = "/images/icons/icon-144x144.png"
 
-[contact]
+#[contact]
   # endpoint = "https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd" # Backend endpoint, remove this line if you're using Netlify.
   # file = true # Enable file upload
   # fileField = "image" # The name of file field.
 
-[repo]
-  url = "https://github.com/razonyang/hugo-theme-bootstrap"
+#[repo]
+#  url = "https://github.com/razonyang/hugo-theme-bootstrap"
   # branch = "main"
-  subPath = "exampleSite"
+#  subPath = "exampleSite"
   # dateFormat = "02/01/2006, 15:04:05 PM"
