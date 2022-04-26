@@ -31,17 +31,17 @@ A Smooth Jazz backing track in D minor, 100 bpm for you to play over.
 ## Other Sites
 
 * All Instruments:
-  [Instagram](https://www.instagram.com/p/CclZO5kFiTb/)<!--,
-  [Spotify](https://open.spotify.com/track/)-->
+  [Instagram](https://www.instagram.com/p/CclZO5kFiTb/),
+  [Spotify](https://open.spotify.com/track/7v5s7Cokv7mwka1rwOMyqe)
 * Minus Bass:
-  [Instagram](https://www.instagram.com/p/CclZ6M0FOV3/)<!--,
-  [Spotify](https://open.spotify.com/track/)-->
+  [Instagram](https://www.instagram.com/p/CclZ6M0FOV3/),
+  [Spotify](https://open.spotify.com/track/5NP2uDInk9qF7dInN0OWF5)
 * Minus Drums:
-  [Instagram](https://www.instagram.com/p/CclaSFsFyg4/)<!--, 
-  [Spotify](https://open.spotify.com/track/)-->
+  [Instagram](https://www.instagram.com/p/CclaSFsFyg4/), 
+  [Spotify](https://open.spotify.com/track/0HeNot4cVGmCzUc4fiBVXZ)
 * Minus Keyboards And Guitars:
-  [Instagram](https://www.instagram.com/p/Ccla-XplQUR/)<!--,
-  [Spotify](https://open.spotify.com/track/)-->
+  [Instagram](https://www.instagram.com/p/Ccla-XplQUR/),
+  [Spotify](https://open.spotify.com/track/1wu9UTKrzeI0aZrE5WXQd8)
 
 You'll also find our backing tracks on all other major music streaming services.
 
