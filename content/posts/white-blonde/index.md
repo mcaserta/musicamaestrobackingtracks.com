@@ -1,5 +1,5 @@
 ---
-title: "Smooth Jazz Backing Track In D Minor, 100 bpm: White Blonde"
+title: "Smooth Jazz, Dm, 100 bpm"
 date: 2022-04-20T16:35:29+08:00
 draft: false
 categories: ['Backing Track']
@@ -14,19 +14,19 @@ A Smooth Jazz backing track in D minor, 100 bpm for you to play over.
 
 ### All Instruments
 
-{{< youtube id="ndks0p2eBx0" title="Smooth Jazz Backing Track In D Minor: White Blonde - All Instruments" >}}
+{{< youtube id="ndks0p2eBx0" title="Smooth Jazz, All Instruments, Dm, 100bpm" >}}
 
 ### Minus Bass
 
-{{< youtube id="OV3Wysa4MtI" title="Smooth Jazz Backing Track In D Minor: White Blonde - Minus Bass" >}}
+{{< youtube id="OV3Wysa4MtI" title="Smooth Jazz, Minus Bass, Dm, 100 bpm" >}}
 
 ### Minus Drums
 
-{{< youtube id="lSqovr2jFPM" title="Smooth Jazz Backing Track In D Minor: White Blonde - Minus Drums" >}}
+{{< youtube id="lSqovr2jFPM" title="Smooth Jazz, Minus Drums, Dm, 100 bpm" >}}
 
 ### Minus Keyboards And Guitars
 
-{{< youtube id="nnrHetJJtkE" title="Smooth Jazz Backing Track In D Minor: White Blonde - Minus Keyboards And Guitars" >}}
+{{< youtube id="nnrHetJJtkE" title="Smooth Jazz, Minus Keyboards And Guitars, Dm, 100 bpm" >}}
 
 ## Other Sites
 

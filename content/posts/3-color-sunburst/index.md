@@ -1,5 +1,5 @@
 ---
-title: "Pop Rock Backing Track In B Minor, 112 bpm: 3 Color Sunburst"
+title: "Pop Rock, Bm, 112 bpm"
 date: 2022-04-10T16:35:29+08:00
 draft: false
 categories: ['Backing Track']
@@ -14,19 +14,19 @@ A Pop Rock backing track in B minor, 112 bpm for you to play over.
 
 ### All Instruments
 
-{{< youtube id="C4Hl5Dl0Hyo" title="Pop Rock Backing Track In B Minor: 3 Color Sunburst - All Instruments" >}}
+{{< youtube id="C4Hl5Dl0Hyo" title="Pop Rock, All Instruments, Bm, 112 bpm" >}}
 
 ### Minus Bass
 
-{{< youtube id="6LS3Ntq-biU" title="Pop Rock Backing Track In B Minor: 3 Color Sunburst - Minus Bass" >}}
+{{< youtube id="6LS3Ntq-biU" title="Pop Rock, Minus Bass, Bm, 112 bpm" >}}
 
 ### Minus Drums
 
-{{< youtube id="MGHHHe-82ac" title="Pop Rock Backing Track In B Minor: 3 Color Sunburst - Minus Drums" >}}
+{{< youtube id="MGHHHe-82ac" title="Pop Rock, Minus Drums, Bm, 112 bpm" >}}
 
 ### Minus Keyboards And Guitars
 
-{{< youtube id="dIFFP9_IfJ8" title="Pop Rock Backing Track In B Minor: 3 Color Sunburst - Minus Keyboards And Guitars" >}}
+{{< youtube id="dIFFP9_IfJ8" title="Pop Rock, Minus Keyboards And Guitars, Bm, 112 bpm" >}}
 
 ## Other Sites
 
