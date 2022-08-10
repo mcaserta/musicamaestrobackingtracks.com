@@ -32,16 +32,16 @@ A Medium Funk backing track in E minor, 90 bpm for you to play over.
 
 * All Instruments:
   [Instagram](https://www.instagram.com/p/Cgr8cTEl8Az/),
-  <!--[Spotify](https://open.spotify.com/track/7v5s7Cokv7mwka1rwOMyqe)-->
+  [Spotify](https://open.spotify.com/track/7KDzy2KbVL8gmQWnPfddbn)
 * Minus Bass:
   [Instagram](https://www.instagram.com/p/Cgr818uFBnX/),
-  <!--[Spotify](https://open.spotify.com/track/5NP2uDInk9qF7dInN0OWF5)-->
+  [Spotify](https://open.spotify.com/track/1FkP0oA0EFhhgodoWrWh2R)
 * Minus Drums:
   [Instagram](https://www.instagram.com/p/Cgr9C8ylq1J/), 
-  <!--[Spotify](https://open.spotify.com/track/0HeNot4cVGmCzUc4fiBVXZ)-->
+  [Spotify](https://open.spotify.com/track/1xzSxnteHN2s8lX92riv4d)
 * Minus Keyboards And Guitars:
   [Instagram](https://www.instagram.com/p/Cgr-xMxFDCT/),
-  <!--[Spotify](https://open.spotify.com/track/1wu9UTKrzeI0aZrE5WXQd8)-->
+  [Spotify](https://open.spotify.com/track/5NRgs8rAWdhbWz22zc5Iy0)
 
 You'll also find our backing tracks on all other major music streaming services.
 
