@@ -1,12 +1,12 @@
 ---
-title: "Medium Funk, Em, 90 bpm"
+title: "D Dorian Jam, Dm, 78 bpm"
 date: 2022-04-20T16:35:29+08:00
-draft: false
+draft: true
 categories: ['Backing Track']
-tags: ['Medium Funk']
+tags: ['D Dorian Jam']
 ---
 
-A Medium Funk backing track in E minor, 90 bpm for you to play over. 
+A D Dorian Jam backing track in D minor, 78 bpm for you to play over. 
 
 <!--more-->
 
@@ -14,19 +14,19 @@ A Medium Funk backing track in E minor, 90 bpm for you to play over.
 
 ### All Instruments
 
-{{< youtube id="v0bGORlGl7s" title="Medium Funk, All Instruments, Em, 90bpm" >}}
+{{< youtube id="v0bGORlGl7s" title="D Dorian Jam, All Instruments, Dm, 78 bpm" >}}
 
 ### Minus Bass
 
-{{< youtube id="MNjCfxLVHyI" title="Medium Funk, Minus Bass, Em, 90 bpm" >}}
+{{< youtube id="MNjCfxLVHyI" title="D Dorian Jam, Minus Bass, Dm, 78 bpm" >}}
 
 ### Minus Drums
 
-{{< youtube id="kkSbLyqjHVc" title="Medium Funk, Minus Drums, Em, 90 bpm" >}}
+{{< youtube id="kkSbLyqjHVc" title="D Dorian Jam, Minus Drums, Dm, 78 bpm" >}}
 
 ### Minus Keyboards And Guitars
 
-{{< youtube id="44Uow0UQ1I0" title="Medium Funk, Minus Keyboards And Guitars, Em, 90 bpm" >}}
+{{< youtube id="44Uow0UQ1I0" title="D Dorian Jam, Minus Keyboards And Guitars, Dm, 78 bpm" >}}
 
 ## Other Sites
 

@@ -14,7 +14,7 @@ A Smooth Jazz backing track in D minor, 100 bpm for you to play over.
 
 ### All Instruments
 
-{{< youtube id="ndks0p2eBx0" title="Smooth Jazz, All Instruments, Dm, 100bpm" >}}
+{{< youtube id="ndks0p2eBx0" title="Smooth Jazz, All Instruments, Dm, 100 bpm" >}}
 
 ### Minus Bass
 
