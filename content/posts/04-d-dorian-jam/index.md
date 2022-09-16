@@ -1,6 +1,6 @@
 ---
 title: "D Dorian Jam, Dm, 78 bpm"
-date: 2022-09-16T16:35:29+02:00
+date: 2022-09-16T10:35:29+02:00
 draft: false
 categories: ['Backing Track']
 tags: ['D Dorian Jam']
