@@ -31,23 +31,14 @@ A Smooth Jazz Ballad backing track in Bb, 65 bpm for you to play over.
 ## Other Sites
 
 * All Instruments:
-  [Instagram](https://www.instagram.com/p/Co4mbzBMhl9/),
-  Spotify (TBA)
-  <!-- [Spotify]() -->
+  [Instagram](https://www.instagram.com/p/Co4mbzBMhl9/)
 * Minus Keyboards And Guitars:
-  [Instagram](https://www.instagram.com/p/Co4mCHRuHwI/),
-  Spotify (TBA)
-  <!-- [Spotify]() -->
+  [Instagram](https://www.instagram.com/p/Co4mCHRuHwI/)
 * Minus Bass:
-  [Instagram](https://www.instagram.com/p/Co4lttZP_Ta/),
-  Spotify (TBA)
-  <!-- [Spotify]() -->
+  [Instagram](https://www.instagram.com/p/Co4lttZP_Ta/)
 * Minus Drums:
-  [Instagram](https://www.instagram.com/p/Co4lbHrOpFV/), 
-  Spotify (TBA)
-  <!-- [Spotify]() -->
+  [Instagram](https://www.instagram.com/p/Co4lbHrOpFV/) 
 
-You'll also find our backing tracks on all other major music streaming services.
 
 ## Full Package
 
