@@ -28,16 +28,12 @@ A Smooth Jazz Ballad backing track in Bb, 65 bpm for you to play over.
 
 {{< youtube id="_VEfKQoA9ac" title="Smooth Jazz Ballad, Minus Drums, Bb, 65 bpm" >}}
 
-## Other Sites
+## Instagram
 
-* All Instruments:
-  [Instagram](https://www.instagram.com/p/Co4mbzBMhl9/)
-* Minus Keyboards And Guitars:
-  [Instagram](https://www.instagram.com/p/Co4mCHRuHwI/)
-* Minus Bass:
-  [Instagram](https://www.instagram.com/p/Co4lttZP_Ta/)
-* Minus Drums:
-  [Instagram](https://www.instagram.com/p/Co4lbHrOpFV/) 
+* [All Instruments](https://www.instagram.com/p/Co4mbzBMhl9/)
+* [Minus Keyboards And Guitars](https://www.instagram.com/p/Co4mCHRuHwI/)
+* [Minus Bass](https://www.instagram.com/p/Co4lttZP_Ta/)
+* [Minus Drums](https://www.instagram.com/p/Co4lbHrOpFV/) 
 
 
 ## Full Package
